@@ -1,5 +1,5 @@
 buddy
-font _ size 2em
-font.size: 2em
-:focus-within 
+.slider{
+    background-color: yellow;
+}
 
